@@ -1,6 +1,6 @@
 package team
 
-import employee "github.com/nithishgwd/employee_Module" // Update with your module path
+import employee "github.com/nithishgwd/employee_Module"
 
 // Team represents a team in the office.
 type Team struct {
